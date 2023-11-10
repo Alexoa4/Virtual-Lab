@@ -31,7 +31,7 @@
 <img src="https://i.imgur.com/LbrNcYc.png" height="80%" width="80%" alt=""/>
 
 
-<b><h3>Installing OPNsense in a Live Mode</h3></b>
+<b><h3>Inspecting the two network cards installed on Kal Machine on ethernet 1</h3></b>
 
 <img src="https://i.imgur.com/195hJsu.png" height="80%" width="80%" alt=""/>
 
