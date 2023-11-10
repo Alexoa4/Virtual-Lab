@@ -33,7 +33,10 @@
 
 <b><h3>Installing OPNsense in a Live Mode</h3></b>
 
-<img src="" height="80%" width="80%" alt=""/>
-<img src="" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/195hJsu.png" height="80%" width="80%" alt=""/>
+
+<b><h3>Installing OPNsense in a Live Mode</h3></b>
+
+<img src="https://i.imgur.com/ulEwdwT.png" height="80%" width="80%" alt=""/>
 
 
