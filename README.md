@@ -5,5 +5,5 @@
 
 <img src="https://i.imgur.com/xYZBLJ2.png" height="80%" width="80%" alt=""/>
 
-<h2>Step 1: Installation of OPNsence on VirtualBox Machine</h2>
+<h2>Step 1: Installation of OPNsense on VirtualBox Machine</h2>
 
