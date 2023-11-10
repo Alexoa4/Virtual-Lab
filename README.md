@@ -39,4 +39,9 @@
 
 <img src="https://i.imgur.com/ulEwdwT.png" height="80%" width="80%" alt=""/>
 
+<b><h3>Displaying the Dashboard of the Firewall in OPNsense </h3></b>
+
+<img src="https://i.imgur.com/1p6g85n.png" height="80%" width="80%" alt=""/>
+
+
 
