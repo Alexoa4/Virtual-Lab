@@ -35,7 +35,7 @@
 
 <img src="https://i.imgur.com/195hJsu.png" height="80%" width="80%" alt=""/>
 
-<b><h3>Installing OPNsense in a Live Mode</h3></b>
+<b><h3>Login to OPNsense to view the GUI version of the Firewall </h3></b>
 
 <img src="https://i.imgur.com/ulEwdwT.png" height="80%" width="80%" alt=""/>
 
