@@ -8,17 +8,28 @@
 
 <h2>Step 1: Installation of OPNsense firewall on VirtualBox Machine</h2> <br>
 
+
+<b><h3>Slecting Network Adapters 1 and 2 </h3></b>
+<p>Adapter 1 is the to share my internet connection with the virtual machine as NAT while adapter 2 is the internal network called intent as the virtual network</p>
+
+<img src="https://i.imgur.com/vGy5tqZ.png" height="80%" width="80%" alt=""/>
+
+
 <b><h3>Mount The ISO Image</h3></b>
 
 <img src="https://i.imgur.com/gMxMKRj.png" height="80%" width="80%" alt=""/> <br>
 
-<b><h3>Slecting the UNIX File System Partition</h3>
+
+<b><h3>Slecting the UNIX File System Partition</h3></b>
+
 
 <img src="https://i.imgur.com/ayYycrz.png" height="80%" width="80%" alt=""/>
+
 
 <b><h3>Installing OPNsense in a Live Mode</h3></b>
 
 <img src="https://i.imgur.com/LbrNcYc.png" height="80%" width="80%" alt=""/>
+
 
 <b><h3>Installing OPNsense in a Live Mode</h3></b>
 
