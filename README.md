@@ -4,7 +4,8 @@
 
 <h2>Lab Topology</h2>
 
-<img src="https://i.imgur.com/xYZBLJ2.png" height="80%" width="80%" alt=""/>
+
+![Opnsense](https://github.com/Alexoa4/Virtual-Lab/assets/105945708/550de060-6a9b-4b9d-bdce-a77d329a4ccb)
 
 <h2>Step 1: Installation of OPNsense firewall on VirtualBox Machine</h2> <br>
 
