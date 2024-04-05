@@ -11,7 +11,7 @@
 
 
 <b><h3>Selecting Network Adapters 1 for NAT and 2 for INTNET</h3></b>
-<p>Adapter 1 is the to share my internet connection with the virtual machine as NAT while adapter 2 is the internal network called intnet as the virtual network</p>
+<p>Adapter 1 is there to share my internet connection with the virtual machine as NAT while adapter 2 is the internal network called intnet as the virtual network</p>
 
 <img src="https://i.imgur.com/vGy5tqZ.png" height="80%" width="80%" alt=""/>
 
